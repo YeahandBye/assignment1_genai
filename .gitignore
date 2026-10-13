@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Assignment 2
+data/
+app/main_backup.py
+.DS_Store
